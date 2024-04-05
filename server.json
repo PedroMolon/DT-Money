@@ -1,0 +1,124 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Site Development Project",
+      "type": "income",
+      "category": "Freelance",
+      "price": 14000,
+      "createdAt": "2024-03-21T18:18:16.210Z"
+    },
+    {
+      "id": 2,
+      "description": "Graphic design work",
+      "type": "income",
+      "category": "Freelance",
+      "price": 2500,
+      "createdAt": "2024-03-21T18:20:35.120Z"
+    },
+    {
+      "id": 3,
+      "description": "Mobile app development",
+      "type": "income",
+      "category": "Contract Work",
+      "price": 18000,
+      "createdAt": "2024-03-21T18:22:47.320Z"
+    },
+    {
+      "id": 4,
+      "description": "Consulting services",
+      "type": "income",
+      "category": "Professional Services",
+      "price": 9000,
+      "createdAt": "2024-03-21T18:24:55.430Z"
+    },
+    {
+      "id": 5,
+      "description": "Product sales",
+      "type": "income",
+      "category": "Retail",
+      "price": 35000,
+      "createdAt": "2024-03-21T18:26:10.550Z"
+    },
+    {
+      "id": 6,
+      "description": "Writing articles",
+      "type": "income",
+      "category": "Content Creation",
+      "price": 1200,
+      "createdAt": "2024-03-21T18:28:20.670Z"
+    },
+    {
+      "id": 7,
+      "description": "Photography services",
+      "type": "income",
+      "category": "Artistic Services",
+      "price": 5000,
+      "createdAt": "2024-03-21T18:30:35.780Z"
+    },
+    {
+      "id": 8,
+      "description": "Event planning",
+      "type": "income",
+      "category": "Event Management",
+      "price": 7000,
+      "createdAt": "2024-03-21T18:32:45.890Z"
+    },
+    {
+      "id": 9,
+      "description": "Software licensing",
+      "type": "income",
+      "category": "Licensing",
+      "price": 15000,
+      "createdAt": "2024-03-21T18:35:00.910Z"
+    },
+    {
+      "id": 10,
+      "description": "Tutoring services",
+      "type": "income",
+      "category": "Education",
+      "price": 3000,
+      "createdAt": "2024-03-21T18:37:15.120Z"
+    },
+    {
+      "id": 11,
+      "description": "Social media management",
+      "type": "income",
+      "category": "Marketing",
+      "price": 6000,
+      "createdAt": "2024-03-21T18:39:30.230Z"
+    },
+    {
+      "id": 12,
+      "description": "New cellphone",
+      "type": "outcome",
+      "category": "Buy",
+      "price": -10000,
+      "createdAt": "2024-03-21T18:41:45.340Z"
+    },
+    {
+      "description": "Site Development Project",
+      "price": 5000,
+      "category": "Freelance",
+      "type": "income",
+      "createdAt": "2024-03-24T01:37:07.175Z",
+      "id": 13
+    },
+    {
+      "description": "Hamburguer",
+      "price": 25,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2024-03-24T15:19:52.124Z",
+      "id": 14
+    },
+    {
+      "description": "Water",
+      "price": 5,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2024-03-25T18:42:55.109Z",
+      "id": 15
+    }
+  ]
+}
